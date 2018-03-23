@@ -62,14 +62,14 @@ module.exports = function () {
         'name': 'node.firstSeen',
         'value': 'FirstSeen'
       },
-      {
-        'name': 'node.systemLoad',
-        'value': 'Load'
-      },
-      {
-        'name': 'node.ram',
-        'value': 'RAM'
-      },
+      // {
+      //   'name': 'node.systemLoad',
+      //   'value': 'Load'
+      // },
+      // {
+      //   'name': 'node.ram',
+      //   'value': 'RAM'
+      // },
       {
         'name': 'node.ipAddresses',
         'value': 'IPs'
